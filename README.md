@@ -1,4 +1,4 @@
-<h2 align="left">Hey there Rajat here, An enthusiastic programmer, Ready to work on another project..</h2>
+<h2 align="left">Hey there 👋 Rajat here, Ready to work on another project..</h2>
 
 ###
 
