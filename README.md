@@ -64,3 +64,24 @@
 <img src="https://raw.githubusercontent.com/royal-15/royal-15/output/snake.svg" alt="Snake animation" />
 
 ###
+
+# My Project Portfolio
+
+Welcome to my GitHub portfolio! Below, you'll find a curated list of my projects, categorized by type.
+
+## Web Development
+
+### [tournaFez](https://github.com/royal-15/tournaFez-tournaments-website)
+
+tournaFez is a web application designed to manage and organize tournaments seamlessly. Built with Next.js, the platform allows users to create, join, and manage tournaments, with support for user authentication via Google, Facebook, and manual login methods. It features a sleek user interface, optimized for performance, and leverages MongoDB for efficient data handling.
+
+<!-- ![Portfolio Screenshot](https://example.com/screenshot.png) -->
+
+-   **Technologies**: ![Next.js](https://img.shields.io/badge/-Next.js-slategray) ![React](https://img.shields.io/badge/-React-darkblue) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-slategreen)
+
+## More Projects
+
+-   []() - Short description
+-   []() - Short description
+
+---
