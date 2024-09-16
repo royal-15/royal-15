@@ -83,7 +83,8 @@ tournaFez is a web application designed to manage and organize tournaments seaml
 
 ## More Projects
 
--   []() - Short description
+-   [Python fun projects](https://github.com/royal-15/python-fun-projects) - Fun and easy Python projects for beginners! Learn by building games, tools, and more.
+
 -   []() - Short description
 
 ---
