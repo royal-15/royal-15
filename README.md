@@ -71,9 +71,29 @@
 
 Welcome to my GitHub portfolio! Below, you'll find a curated list of my projects, categorized by type.
 
-## Web Development
+## Desktop Applications
 
-### [tournaFez](https://github.com/royal-15/tournaFez-tournaments-website)
+### [School Management System](https://github.com/royal-15/SpotiPlay-App)
+
+School Management System is a user-friendly desktop application designed to manage school operations efficiently. It offers features such as student registration, attendance tracking, and more.
+
+-   **Technologies**: ![Vb.Net](https://img.shields.io/badge/-Vb.Net-purple) ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+
+### [SpotiPlay](https://github.com/royal-15/SpotiPlay-App)
+
+SpotiPlay is a modern, user-friendly desktop application for downloading music from Spotify and YouTube. Built with Python and CustomTkinter, SpotiPlay offers a sleek interface and seamless download experience.
+
+-   **Technologies**: ![Python](https://img.shields.io/badge/-Python-blue)
+
+### [Image Editor](https://github.com/royal-15/image-editor-in-python)
+
+Image Editor is a simple image editor built with Python and tkinter. It allows users to edit images by resizing, rotating, and applying various filters.
+
+-   **Technologies**: ![Python](https://img.shields.io/badge/-Python-blue)
+
+## Websites & web apps
+
+### [tournaFez](https://github.com/royal-15/tournaFez-tournaments-website) - [on hold]
 
 tournaFez is a web application designed to manage and organize tournaments seamlessly. Built with Next.js, the platform allows users to create, join, and manage tournaments, with support for user authentication via Google, Facebook, and manual login methods. It features a sleek user interface, optimized for performance, and leverages MongoDB for efficient data handling.
 
@@ -81,10 +101,22 @@ tournaFez is a web application designed to manage and organize tournaments seaml
 
 -   **Technologies**: ![Next.js](https://img.shields.io/badge/-Next.js-slategray) ![React](https://img.shields.io/badge/-React-darkblue) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-slategreen)
 
-## More Projects
+## Python Projects
 
--   [Python fun projects](https://github.com/royal-15/python-fun-projects) - Fun and easy Python projects for beginners! Learn by building games, tools, and more.
+-   [Bmi calculator](https://github.com/royal-15/bmi-app-in-python) -
 
--   []() - Short description
+    -   A simple BMI calculator built with Python and tkinter.
+
+-   [Ios Calculator](https://github.com/royal-15/ios-themed-calculator-in-python) -
+
+    -   A simple iOS themed calculator built with Python and tkinter.
+
+-   [Discord Bot](https://github.com/royal-15/) - [Currently offline]
+
+    -   A discord bot built with Python and discord.py
+
+-   [Fun projects](https://github.com/royal-15/python-fun-projects) -
+
+    -   Fun and easy Python projects for beginners! Learn by building games, tools, and more.
 
 ---
