@@ -11,7 +11,7 @@
 
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 <!-- <img align="right" height="150" src="https://i.imgflip.com/7p6xfp.png"  /> -->
-<img align="right" height="150" src="zoro.gif"  />
+<img align="right" height="150" src="GIF.gif"  />
 
 ###
 
@@ -42,7 +42,7 @@
 ###
 
 <div align="left">
-  <a href="https://youtube.com/@_unique_rajat?si=Z6INAm735xlq_FGs" target="_blank">
+  <a href="https://www.youtube.com/@RoyalRajat-t8y?si=Z6INAm735xlq_FGs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/_royal_impact_/" target="_blank">
