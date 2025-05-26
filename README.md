@@ -73,13 +73,13 @@ Welcome to my GitHub portfolio! Below, you'll find a curated list of my projects
 
 ## Desktop Applications
 
-### [School Management System](https://github.com/royal-15/SpotiPlay-App)
+### [School Management System](https://github.com/royal-15/School-Management-System)
 
 School Management System is a user-friendly desktop application designed to manage school operations efficiently. It offers features such as student registration, attendance tracking, and more.
 
 -   **Technologies**: ![Vb.Net](https://img.shields.io/badge/-Vb.Net-purple) ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 
-### [SpotiPlay](https://github.com/royal-15/SpotiPlay-App)
+### [SpotiPlay](https://github.com/royal-15/SpotiPlay-Desktop)
 
 SpotiPlay is a modern, user-friendly desktop application for downloading music from Spotify and YouTube. Built with Python and CustomTkinter, SpotiPlay offers a sleek interface and seamless download experience.
 
