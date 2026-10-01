@@ -5,7 +5,7 @@ I build Android and desktop software, with most of my current work focused on **
 ## Main projects
 
 - [**ZenRoutine**](https://github.com/royal-15/ZenRoutine) ![Status: Under development](https://img.shields.io/badge/status-under%20development-orange) — My primary project: an offline-first Android app for routines, tasks, money, notes, and reminders. Built with Kotlin and Jetpack Compose, with local data storage and background reminders.
-  <!-- When published, replace the badge with store links, e.g. [Google Play](STORE_URL). -->
+    <!-- When published, replace the badge with store links, e.g. [Google Play](STORE_URL). -->
 - [**Muzic-Desktop**](https://github.com/royal-15/Muzic-Desktop) — A PySide6 desktop app for queuing YouTube audio downloads, tracking progress, and controlling output formats and parallel downloads.
 
 ## More
@@ -20,3 +20,5 @@ Kotlin · Jetpack Compose · Android · Python · PySide6 · Lua · Shell
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/rajat-sharma-1954592a9/)
+[X(Twitter)](https://x.com/RajatSharma1015)
+[Discord](https://discord.com/users/891598773883645952)
